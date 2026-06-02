@@ -1,0 +1,43 @@
+ANNA UNIVERSITY - CSE DEPARTMENT - SEMESTER 5 SYLLABUS
+
+SUBJECT 1: CS3591 - Computer Networks
+Unit 1: Application Layer (HTTP, FTP, SMTP, DNS)
+Unit 2: Transport Layer (TCP, UDP, Congestion Control)
+Unit 3: Network Layer (IP Addressing, Routing Algorithms, OSPF, BGP)
+Unit 4: Data Link Layer & Wireless (Ethernet, Wi-Fi, Error Detection)
+Unit 5: Network Security (Cryptography, Firewalls, IPsec)
+
+SUBJECT 2: CS3501 - Compiler Design
+Unit 1: Lexical Analysis (Tokenization, Regular Expressions, Finite Automata)
+Unit 2: Syntax Analysis (Context-Free Grammars, LL/LR Parsing)
+Unit 3: Syntax-Directed Translation & Intermediate Code Generation
+Unit 4: Runtime Environment & Code Optimization
+Unit 5: Code Generation (Target Machine Architecture, Register Allocation)
+
+SUBJECT 3: CS3551 - Embedded Systems and IoT
+Unit 1: Introduction to Embedded Systems (Microcontrollers, ARM Architecture)
+Unit 2: IoT Architecture and Protocols (MQTT, CoAP, HTTP)
+Unit 3: Sensor Interfacing & Data Ingestion (Arduino, Raspberry Pi)
+Unit 4: Cloud Integration & Analytics for IoT Data
+Unit 5: IoT Security and Real-world Case Studies
+
+SUBJECT 4: CCS334 - Big Data Analytics
+Unit 1: Introduction to Big Data & Hadoop Ecosystem (HDFS, MapReduce)
+Unit 2: NoSQL Databases (MongoDB, Cassandra Schema Design)
+Unit 3: Data Ingestion and Real-time Stream Processing (Kafka, Flume)
+Unit 4: Hadoop Analytics & Distributed Computing (Spark, Hive)
+Unit 5: Predictive Analytics and Machine Learning on Big Data
+
+SUBJECT 5: MX3081 - Object Oriented Analysis and Design
+Unit 1: Use Case Modeling & Object-Oriented Concepts
+Unit 2: Dynamic and Structural Modeling (Class, Sequence, State Diagrams)
+Unit 3: Design Patterns (Creational, Structural, Behavioral Patterns)
+Unit 4: Software Architecture Styles & Component-Level Design
+Unit 5: Software Testing Strategies and Agile Methodologies
+
+SUBJECT 6: CS3511 - Cryptography and Cyber Security
+Unit 1: Symmetric Key Cryptography (DES, AES, Block Ciphers)
+Unit 2: Public Key Cryptography (RSA, Diffie-Hellman, ECC)
+Unit 3: Hash Functions and Digital Signatures (SHA, MAC)
+Unit 4: Network & System Security (Malware, Intrusion Detection Systems)
+Unit 5: Cyber Laws, Forensics, and Ethical Hacking Foundations

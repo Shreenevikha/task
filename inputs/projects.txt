@@ -1,0 +1,46 @@
+15 TEAM PROJECT PROBLEM STATEMENTS (BATCH SIZE: 60 STUDENTS)
+
+Team 1: Smart Campus Fleet Management System
+- Scope: Build a web application using Node.js and React to track college buses in real-time. Use WebSockets for live ETA updates and MongoDB to store daily trip logs.
+
+Team 2: Automated AI Lab Assessment Assistant
+- Scope: Develop a Python-based platform that leverages LLM APIs to automatically evaluate student programming assignments against a predefined grading rubric.
+
+Team 3: Decentralized Academic Credential Verification
+- Scope: A mini blockchain-based application built to issue and securely verify student graduation certificates, preventing transcript forgery.
+
+Team 4: Peer-to-Peer Notes & Study Resource Marketplace
+- Scope: A localized e-commerce web application for engineering students to upload, peer-review, and trade handwritten study notes and coding resources.
+
+Team 5: IoT-Driven Smart Power Grid for Campus Labs
+- Scope: Create a dashboard that connects to simulated smart energy meters in engineering labs using MQTT protocol to track, visualize, and optimize power consumption.
+
+Team 6: Secure Cryptographic Group Chat Application
+- Scope: A desktop messaging platform that implements end-to-end encryption using custom AES and RSA algorithms to secure communication between study groups.
+
+Team 7: Distributed Log Analytics Engine for Web Servers
+- Scope: Build a mini big data pipeline using Apache Kafka to ingest server logs in real-time and a dashboard to display live error-rate anomalies.
+
+Team 8: Cloud-Based Patient Health Monitoring Dashboard
+- Scope: A web platform that ingests simulated continuous health vitals (heart rate, temperature) into a NoSQL database and alerts medical staff of critical spikes.
+
+Team 9: Automated Agile Sprint & Jira Clone for Student Projects
+- Scope: A project management web application focusing on Object-Oriented Design principles, featuring Kanban boards, burn-down charts, and sprint velocity calculators.
+
+Team 10: Smart Parking Slot Allocation System
+- Scope: An IoT and web-based application tracking real-time parking space availability on campus using ultrasonic sensors and a frontend booking map.
+
+Team 11: Real-time Collaborative Code Editor
+- Scope: A web-based IDE (like Google Docs for code) allowing multiple students to edit the same script simultaneously, handling operational transformations.
+
+Team 12: High-Volume Fraud Detection Engine for E-Commerce
+- Scope: A Big Data engine processing stream data to detect fraudulent transactions using pre-trained anomaly detection machine learning models.
+
+Team 13: Distributed File Storage System (Mini Google Drive)
+- Scope: A network-based file storage system implementing file chunking, replication across nodes, and multi-user access permissions over custom sockets.
+
+Team 14: Compiler Frontend Visualizer Tool
+- Scope: A desktop educational tool that visually parses user-inputted code scripts into an Abstract Syntax Tree (AST), highlighting lexical errors instantly.
+
+Team 15: AI-Driven Campus Placement Predictor
+- Scope: A data analytics web application analyzing senior student profiles (CGPA, skills, projects) to predict placement outcomes and suggest customized roadmaps.
