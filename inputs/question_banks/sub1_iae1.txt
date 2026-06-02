@@ -1,0 +1,12 @@
+CS3591 - COMPUTER NETWORKS | INTERNAL ASSESSMENT TEST 1 (UNITS 1 & 2)
+PART A (2 Marks)
+1. Differentiate between persistent and non-persistent HTTP connections.
+2. Why does DNS run primarily over UDP instead of TCP?
+3. State the purpose of the three-way handshake in TCP.
+4. Define Congestion Window and explain how it differs from Flow Control Window.
+PART B (13 Marks)
+5. (a) Illustrate the step-by-step process of retrieving a web page containing three embedded images using iterative DNS query resolution and non-persistent HTTP.
+    (OR)
+   (b) Explain the operation of the Go-Back-N (GBN) and Selective Repeat (SR) sliding window protocols with sequence diagrams highlighting a packet loss scenario.
+PART C (15 Marks)
+6. Analyze TCP Tahoe and TCP Reno congestion control algorithms. Draw the congestion window graph showing Slow Start, Congestion Avoidance, Fast Retransmit, and Fast Recovery phases.
