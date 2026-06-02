@@ -1,0 +1,12 @@
+CS3591 - COMPUTER NETWORKS | INTERNAL ASSESSMENT TEST 3 (UNIT 5)
+PART A (2 Marks)
+1. Distinguish between symmetric key and asymmetric key cryptography.
+2. What is a packet filtering firewall?
+3. Define the role of a Security Association (SA) in IPsec.
+4. How does a man-in-the-middle attack compromise network traffic?
+PART B (13 Marks)
+5. (a) Explain the architecture and protocol operation of Secure Sockets Layer / Transport Layer Security (SSL/TLS) during a secure session setup.
+    (OR)
+   (b) Describe how IPsec operates in both Transport mode and Tunnel mode. Detail the headers used in ESP and AH.
+PART C (15 Marks)
+6. Evaluate the implementation of a corporate firewall architecture. Design a network topology featuring a Demilitarized Zone (DMZ) hosting Mail, Web, and DNS servers, protected by dual firewalls.
