@@ -1,0 +1,12 @@
+MX3081 - OOAD | INTERNAL ASSESSMENT TEST 1 (UNITS 1 & 2)
+PART A (2 Marks)
+1. Define the Unified Process lifecycle execution stages.
+2. What is an actor classification profile inside use case mapping models?
+3. Differentiate aggregation interactions from composition object modeling relations.
+4. What is a conceptual class model diagram specification?
+PART B (13 Marks)
+5. (a) Design a complete detailed System Use Case diagram modeling user interaction requirements tracking an Online Library Reservation Portal.
+    (OR)
+   (b) Develop a comprehensive structural Class Diagram mapping fields, systems interaction routes, and visibility flags for an ATM Banking Machine.
+PART C (15 Marks)
+6. Construct structural Sequence Diagrams detailing cross-object messaging parameters across dynamic runtimes handling online payment gateway transactions.

@@ -1,0 +1,40 @@
+ANNA UNIVERSITY END SEMESTER EXAMINATION | B.E. COMPUTER SCIENCE & ENGINEERING
+FIFTH SEMESTER - REGULATION 2021
+CS3551 - EMBEDDED SYSTEMS AND IOT
+Time: 3 Hours | Max. Marks: 100
+
+PART A (10 x 2 = 20 Marks) - Answer ALL Questions
+1. Compare the functional differences between Microprocessors and Microcontrollers.
+2. What is the explicit role of a hardware-based watch-dog timer in an automated system?
+3. State why HTTP is considered a high-overhead transport when evaluated for edge IoT nodes.
+4. Draw a small conceptual block diagram of the MQTT Broker-Client layout topology.
+5. Why are pull-up resistors mandatory when configuring I2C serial bus lines?
+6. Determine the resolution and step-size of an 8-bit ADC configured with a 5V reference.
+7. Outline the principal security threats linked to hardcoded credentials on deployed IoT fields.
+8. State the core architectural design goal of an IoT Gateways platform.
+9. Distinguish between a standard real-time operating system (RTOS) and generic Linux.
+10. Define the difference between active and passive sensor components.
+
+PART B (5 x 13 = 65 Marks) - Answer ALL Questions (Internal Choice)
+11. (a) Illustrate the complete hardware internal architecture profile of the ARM Cortex-M micro-controller family. Detail its register windows and memory mappings.
+    (OR)
+    (b) Design an explicit comparison matrix evaluating MQTT vs CoAP network communication protocols. Detail header lengths, caching features, and transport layers.
+
+12. (a) Build a technical hardware design schematic layout interfacing an Arduino or Raspberry Pi node with a digital sensor array over SPI and I2C buses concurrently.
+    (OR)
+    (b) Describe cloud ingestion data workflows. Explain step-by-step how an AWS IoT Core or Azure IoT Hub tier handles client device authentication and rules engine sorting.
+
+13. (a) Derive the complete architectural pipeline blueprint for a Smart Automated Agriculture management framework, mapping soil nodes to cellular gateways and dashboards.
+    (OR)
+    (b) Formulate an enterprise Edge Computing deployment strategy. Detail how local pre-processing of data streams balances data center transmission backhaul costs.
+
+14. (a) Detail network communication alternatives optimized for low-power wide-area spaces. Evaluate operational performance differences across LoRaWAN, NB-IoT, and Zigbee.
+    (OR)
+    (b) Develop an embedded C program framework handling external hardware interrupt routines that trigger automated actuator shut-off loops based on sensor anomalies.
+
+15. (a) Outline the core structural principles of the Indian IT Act 2000 regarding security vulnerabilities introduced by IoT industrial infrastructure implementations.
+    (OR)
+    (b) Describe structural attack strategies executing Replay Attacks and Man-in-the-Middle exploits on unencrypted wireless smart-home grid infrastructures.
+
+PART C (1 x 15 = 15 Marks) - Case Study / Application Question
+16. (a)

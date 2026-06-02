@@ -1,0 +1,12 @@
+MX3081 - OOAD | INTERNAL ASSESSMENT TEST 3 (UNIT 5)
+PART A (2 Marks)
+1. Explain the difference between black-box testing techniques and white-box testing frameworks.
+2. What is regression execution testing runs objective?
+3. State the primary objective of an iterative agile sprint cycle.
+4. Define integration configuration continuous deployment testing structures.
+PART B (13 Marks)
+5. (a) Formulate test case templates, covering inputs, steps, and expected outputs, verifying user cart workflows.
+    (OR)
+   (b) Detail Agile software development methodologies tracking scrum framework artifacts: sprint planning backlogs, burndown tracking tables, and retrospectives.
+PART C (15 Marks)
+6. Design an enterprise software testing plan validating fault tolerances and functional processing paths for a distributed banking cluster application.

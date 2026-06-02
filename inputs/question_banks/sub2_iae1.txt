@@ -1,0 +1,12 @@
+CS3501 - COMPILER DESIGN | INTERNAL ASSESSMENT TEST 1 (UNITS 1 & 2)
+PART A (2 Marks)
+1. Define a lexeme, token, and pattern with examples.
+2. Convert the regular expression (a|b)*abb into a Non-Deterministic Finite Automata (NFA).
+3. Eliminate left recursion from the grammar: E -> E + T | T.
+4. What is the significance of the "handle" in bottom-up parsing?
+PART B (13 Marks)
+5. (a) Construct a Deterministic Finite Automata (DFA) from the NFA generated for the regular expression (a*b+)|c. Show the transition table.
+    (OR)
+   (b) Construct the LL(1) parsing table for the grammar: S -> iEtS | a; E -> b. Verify if the string "ibtia" is accepted.
+PART C (15 Marks)
+6. Given the grammar: S -> L = R | R; L -> *R | id; R -> L. Construct the canonical collection of LR(0) items and build the SLR(1) parsing table. Identify any shift-reduce conflicts.

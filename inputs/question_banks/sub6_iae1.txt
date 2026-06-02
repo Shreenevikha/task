@@ -1,0 +1,12 @@
+CS3511 - CRYPTOGRAPHY AND CYBER SECURITY | INTERNAL ASSESSMENT TEST 1 (UNITS 1 & 2)
+PART A (2 Marks)
+1. Distinguish between passive network monitoring eavesdropping attacks vs active payload tampering vectors.
+2. What is a transposition cipher processing structure?
+3. State the structural design vulnerability found within Data Encryption Standard (DES) algorithm keys.
+4. Define Avalanche Effect propagation metrics processing goals.
+PART B (13 Marks)
+5. (a) Execute manual cryptographic execution matrices encrypting message parameters using the Playfair Cipher encryption process.
+    (OR)
+   (b) Trace operational processing execution blocks found within the Advanced Encryption Standard (AES) algorithm layout architecture tracking byte transformations.
+PART C (15 Marks)
+6. Apply mathematical principles completing structural computations verifying key trades utilizing the Diffie-Hellman Key Exchange protocol format.

@@ -1,0 +1,12 @@
+CS3501 - COMPILER DESIGN | INTERNAL ASSESSMENT TEST 2 (UNITS 3 & 4)
+PART A (2 Marks)
+1. Differentiate between synthesized attributes and inherited attributes.
+2. Generate three-address code for the statement: x = a + b * c - d.
+3. What is a basic block in code optimization?
+4. Define loop unrolling and loop hoisting.
+PART B (13 Marks)
+5. (a) Construct a Syntax Directed Translation schema to evaluate arithmetic expressions and draw the annotated parse tree for the input expression: 5 * 3 + 4.
+    (OR)
+   (b) Explain the major DAG (Directed Acyclic Graph) construction rules for representing basic blocks with an example expression sequence.
+PART C (15 Marks)
+6. Write an optimization pipeline algorithm to compute Data-Flow Analysis equations, focusing on reaching definitions and live-variable analysis inside iterative code blocks.

@@ -1,0 +1,12 @@
+CS3551 - EMBEDDED SYSTEMS AND IOT | INTERNAL ASSESSMENT TEST 3 (UNIT 5)
+PART A (2 Marks)
+1. State the vulnerability risk profile of default credential profiles in IoT hardware deployment.
+2. What is firmware tampering verification over trust models?
+3. Detail a physical environment monitoring target footprint.
+4. What is a replay attack executed on actuator controls?
+PART B (13 Marks)
+5. (a) Develop an end-to-end framework layout blueprint safeguarding communication paths using public-key systems on lightweight boards.
+    (OR)
+   (b) Present a real-world IoT smart agriculture deployment case study profiling automated solenoid moisture controls.
+PART C (15 Marks)
+6. Propose a structural architecture remediation strategy countering DDoS botnet attacks originating from vulnerabilities found in smart home appliances.

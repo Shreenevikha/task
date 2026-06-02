@@ -1,0 +1,42 @@
+ANNA UNIVERSITY END SEMESTER EXAMINATION | B.E. COMPUTER SCIENCE & ENGINEERING
+FIFTH SEMESTER - REGULATION 2021
+CS3501 - COMPILER DESIGN
+Time: 3 Hours | Max. Marks: 100
+
+PART A (10 x 2 = 20 Marks) - Answer ALL Questions
+1. State the primary input and output formats processed across the individual compilation phases.
+2. Define a Lexeme, a Token, and a structural pattern with code matching samples.
+3. Why is left-recursion elimination necessary before constructing an LL(1) top-down parser?
+4. Compute the First and Follow sets for the grammar: S -> aSb | e.
+5. What is a "handle" in the context of shift-reduce bottom-up parsing pipelines?
+6. Differentiate between an Abstract Syntax Tree (AST) and a standard Concrete Parse Tree.
+7. Give a short overview defining synthesized attributes vs inherited attributes inside syntax-directed definitions.
+8. Convert the math expression "a = b * -c + b * -c" into a Directed Acyclic Graph (DAG) representation.
+9. Outline the structure of a standard runtime activation record frame on a stack window.
+10. Define the basic conditions required to group a straight sequence of code into a "Basic Block".
+
+PART B (5 x 13 = 65 Marks) - Answer ALL Questions (Internal Choice)
+11. (a) Explain all phases of a compiler with a neat architecture flowchart. Trace how the source statement "position = initial + rate * 60" is transformed across each phase.
+    (OR)
+    (b) Construct a Lexical Analyzer workflow. Convert the regular expression (a|b)*abb into a Non-deterministic Finite Automaton (NFA) via Thompson’s construction, and subsequently convert it into an optimized Deterministic Finite Automaton (DFA) using subset construction.
+
+12. (a) Given the operator precedence grammar rule expressions: E -> E + E | E * E | ( E ) | id. Check for ambiguity, eliminate conflicts, and construct an LL(1) predictive parsing parsing table matrix.
+    (OR)
+    (b) Construct the canonical collection of LR(0) items configuration states and construct the complete SLR(1) parsing table for the grammar: S -> L = R | R; L -> *R | id; R -> L. Identify if any Shift-Reduce or Reduce-Reduce conflicts exist.
+
+13. (a) Design a complete Syntax-Directed Translation (SDT) scheme to evaluate basic calculator arithmetic expressions. Draw an annotated parse tree computing values step-by-step for the string: "3 * 5 + 4".
+    (OR)
+    (b) Detail intermediate code formats. Convert the source code control construct "while (a < b) do if (c > d) then x = y + z else x = y - z" into syntax trees, Quadruples, Triples, and Indirect Triples formats.
+
+14. (a) Detail runtime storage management configurations. Explain static storage allocation, heap management patterns, dangling reference errors, and garbage collection algorithms.
+    (OR)
+    (b) Write a comprehensive optimization algorithm that iterates through basic blocks to compute Global Data-Flow Analysis equations tracking Reaching Definitions and Live Variables.
+
+15. (a) Explain principal code optimization strategies with explicit code block examples: Common Subexpression Elimination, Dead Code Elimination, Loop Unrolling, Code Hoisting, and Strength Reduction.
+    (OR)
+    (b) Describe global register allocation strategies. Detail the runtime implementation steps of using a Graph Coloring algorithm to map local temporary variables onto a limited set of machine registers.
+
+PART C (1 x 15 = 15 Marks) - Case Study / Application Question
+16. (a) Design the complete code generation pipeline tracking code execution blocks. Given the basic block equations: t1 = a + b; t2 = c * d; t3 = t1 - t2; t4 = t3 + e. Apply the heuristic code-generation algorithm to emit optimized target x86 assembly code instructions, minimizing memory loads by managing a real-time Register Descriptor table tracker.
+    (OR)
+    (b) Analyze the execution path of a syntax analyzer module encountering syntax errors. Evaluate panic-mode error recovery and phrase-level error recovery options inside LR bottom-up parsing automation platforms. Detail exactly how the parser adjusts its state stack and token input stream when processing malformed statements.

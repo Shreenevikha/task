@@ -1,0 +1,12 @@
+MX3081 - OOAD | INTERNAL ASSESSMENT TEST 2 (UNITS 3 & 4)
+PART A (2 Marks)
+1. Detail the structural intent of the Singleton software design pattern.
+2. State the Open-Closed software engineering design principle (SOLID).
+3. Compare structural patterns vs behavioral execution pattern variations.
+4. Define coupling metrics vs cohesion attributes software goals.
+PART B (13 Marks)
+5. (a) Apply GRASP pattern guidelines (General Responsibility Assignment Software Patterns) solving object initialization mapping parameters.
+    (OR)
+   (b) Illustrate the structural design layouts, interface contracts, and target use cases utilizing the Abstract Factory structural design pattern.
+PART C (15 Marks)
+6. Refactor an unoptimized, deeply coupled legacy code inventory application into decoupled tiers using Observer and Strategy design patterns.

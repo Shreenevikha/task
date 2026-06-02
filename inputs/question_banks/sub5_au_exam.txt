@@ -1,0 +1,42 @@
+ANNA UNIVERSITY END SEMESTER EXAMINATION | B.E. COMPUTER SCIENCE & ENGINEERING
+FIFTH SEMESTER - REGULATION 2021
+MX3081 - OBJECT ORIENTED ANALYSIS AND DESIGN
+Time: 3 Hours | Max. Marks: 100
+
+PART A (10 x 2 = 20 Marks) - Answer ALL Questions
+1. Distinguish between an iterative development process model and traditional waterfall execution paths.
+2. Outline the principal artifacts created during the Inception phase of the Unified Process.
+3. State the precise difference between system use cases and business use cases.
+4. Define multi-plicity indicators used inside standard UML class diagrams.
+5. Why are boundary and control object notation extensions useful during system modeling?
+6. State the principal design goal represented by the High Cohesion design metric inside GRASP rules.
+7. Give a short summary defining the basic structural goal of the Adapter software design pattern.
+8. How does a behavioral design pattern classification differ from a creational classification?
+9. Contrast the verification objectives of integration testing runs vs unit testing runs.
+10. Define the concept of a Sprint Backlog artifact within an active Scrum framework.
+
+PART B (5 x 13 = 65 Marks) - Answer ALL Questions (Internal Choice)
+11. (a) Explain the fundamental phases, workflows, and milestone reviews that constitute the complete structural life cycle of the Unified Process framework.
+    (OR)
+    (b) Construct a comprehensive UML Use Case Diagram modeling the interactions, dependencies, extensions, and inclusions for a digital Healthcare Patient Appointment Management Portal.
+
+12. (a) Design a highly structured structural Class Diagram mapping fields, systems interaction routes, methods, and visibility flags for an automated Food Delivery Platform application.
+    (OR)
+    (b) Construct detailed Sequence Diagrams and Collaboration Diagrams tracking all sequential object messaging logic required to execute a secure user booking cancellation scenario.
+
+13. (a) Apply General Responsibility Assignment Software Patterns (GRASP) instructions to allocate object processing roles. Detail Creator, Information Expert, and Low Coupling setups.
+    (OR)
+    (b) Illustrate the structural implementation configurations, class hierarchies, and target software application use cases that warrant the deployment of an Abstract Factory design pattern.
+
+14. (a) Explain how a complex system can refactor tight dependencies into clear modules using the Observer and Strategy design patterns. Provide structural tracking class models.
+    (OR)
+    (b) Detail the explicit architectural layout rules, interfaces boundaries, and data flow layers that decouple systems built using the Model-View-Controller (MVC) blueprint pattern.
+
+15. (a) Formulate automated test suites templates outlining boundary value analysis and equivalence partitioning inputs verifying an e-commerce credit checking engine checkout step.
+    (OR)
+    (b) Describe Agile software development management structures. Detail how a team tracks progress using user stories, burndown trackers, and automated CI/CD unit testing runs.
+
+PART C (1 x 15 = 15 Marks) - Case Study / Application Question
+16. (a) Analyze a legacy ride-sharing app whose monolithic code block suffers from high coupling, causing frequent server crashes. Refactor this design into an object-oriented micro-architecture using explicit SOLID design rules, drawing class structures to isolate payment, mapping, and driver routing engines.
+    (OR)
+    (b) Construct a formal State Machine Diagram capturing every transactional condition change and runtime state lifecycle variation of an online train ticketing reservation system. Trace states from Initial Search through Payment Processing, Ticket Confirmation, Modification Requests, and final Travel Completion.

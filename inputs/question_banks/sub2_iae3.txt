@@ -1,0 +1,12 @@
+CS3501 - COMPILER DESIGN | INTERNAL ASSESSMENT TEST 3 (UNIT 5)
+PART A (2 Marks)
+1. What are the primary objectives of the code generation phase?
+2. State the register allocation problem.
+3. Define the role of a next-use descriptor matrix.
+4. What is generic target machine code cost modeling?
+PART B (13 Marks)
+5. (a) Implement the simple code generation algorithm by dynamic programming to emit optimal assembly code sequence for expressions.
+    (OR)
+   (b) Explain code generation strategies using graph coloring algorithms for global register allocation.
+PART C (15 Marks)
+6. Given a basic block consisting of: t1=a+b; t2=c+d; t3=t1*t2; x=t3. Generate target x86 assembly code sequences and optimize register loads using a code generator algorithm.

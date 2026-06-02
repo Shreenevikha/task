@@ -1,0 +1,12 @@
+CCS334 - BIG DATA ANALYTICS | INTERNAL ASSESSMENT TEST 1 (UNITS 1 & 2)
+PART A (2 Marks)
+1. Define the 5 V's of Big Data.
+2. Explain the block replication technique used in HDFS.
+3. Compare SQL databases with NoSQL databases regarding scalability.
+4. What is a column-family store database?
+PART B (13 Marks)
+5. (a) Detail the architectural flow components of HDFS, explicitly tracing file write and file read sequences between clients, NameNodes, and DataNodes.
+    (OR)
+   (b) Create a MongoDB document schema model optimized for an e-commerce platform processing tracking orders. Explain denormalization choices.
+PART C (15 Marks)
+6. Write out complete MapReduce pseudocode to compute word count occurrences over a massive decentralized web corpus dataset step-by-step.

@@ -1,0 +1,12 @@
+CS3511 - CRYPTOGRAPHY AND CYBER SECURITY | INTERNAL ASSESSMENT TEST 3 (UNIT 5)
+PART A (2 Marks)
+1. Outline the main structural regulatory frameworks specified inside the Indian IT Act 2000.
+2. What are the legal constraints governing digital signatures verification paths?
+3. Define digital forensics storage collection protection data pipelines.
+4. Explain the difference between cross-site scripting vulnerabilities vs SQL injection entry paths.
+PART B (13 Marks)
+5. (a) Detail data recovery investigative sequencing methods auditing storage blocks extraction tracking unauthorized modifications.
+    (OR)
+   (b) Review the corporate security framework layout structures required to pass compliance standards auditing transaction infrastructure.
+PART C (15 Marks)
+6. Design an corporate business incident response handling infrastructure tracking, documenting, isolating, and sanitizing systems compromised by zero-day ransomware.

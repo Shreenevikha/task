@@ -1,0 +1,12 @@
+CCS334 - BIG DATA ANALYTICS | INTERNAL ASSESSMENT TEST 3 (UNIT 5)
+PART A (2 Marks)
+1. Define supervised machine learning algorithms vs unsupervised implementations.
+2. What is linear regression feature mapping transformations?
+3. Explain the basic function of a random forest classification model.
+4. What are metrics for measuring system evaluation accuracy models?
+PART B (13 Marks)
+5. (a) Explain step-by-step math execution paths clustering unstructured text metrics via K-Means machine learning algorithms.
+    (OR)
+   (b) Describe real-time market sentiment trends optimization procedures using predictive regression analysis blocks over stream processing setups.
+PART C (15 Marks)
+6. Construct an end-to-end user recommendation profile model processing massive transactional history files using Spark MLlib pipelines.

@@ -1,0 +1,42 @@
+ANNA UNIVERSITY END SEMESTER EXAMINATION | B.E. COMPUTER SCIENCE & ENGINEERING
+FIFTH SEMESTER - REGULATION 2021
+CCS334 - BIG DATA ANALYTICS
+Time: 3 Hours | Max. Marks: 100
+
+PART A (10 x 2 = 20 Marks) - Answer ALL Questions
+1. Define the 5 V's characterizing a production Big Data framework.
+2. Explain the fundamental architectural difference between vertical scaling and horizontal scaling.
+3. State why traditional RDBMS storage layers fail when confronted with unstructured data streams.
+4. What is the fundamental responsibility of the NameNode component inside Apache HDFS?
+5. Illustrate the logical transformation step executing during the Shuffle and Sort phase of MapReduce.
+6. How does Apache Cassandra achieve high availability without single point of failure constraints?
+7. Explain the function of a Topic Partition offset tracking construct within Apache Kafka clusters.
+8. What is a Resilient Distributed Dataset (RDD) in the context of Apache Spark execution engines?
+9. Differentiate between a structured schema mapping and schema-on-read implementations.
+10. State how predictive analytics differs fundamentally from descriptive analytics pipelines.
+
+PART B (5 x 13 = 65 Marks) - Answer ALL Questions (Internal Choice)
+11. (a) Explain the layout operations of the Hadoop Distributed File System (HDFS). Draw a detailed flowchart tracking block allocation when a client performs a 500MB File Write operation.
+    (OR)
+    (b) Formulate a detailed comparison matrix evaluating NoSQL database architectures. Contrast Key-Value, Document-Store, Column-Family, and Graph databases.
+
+12. (a) Write a complete MapReduce application program algorithm calculating a transactional matrix analysis processing sales transactions log inputs. Outline Mapper, Reducer, and Combiner steps.
+    (OR)
+    (b) Design an enterprise MongoDB document model database schema layer optimizing data for a multi-vendor logistics platform. Support fast read aggregations.
+
+13. (a) Detail the distributed tracking model built inside Apache Kafka. Explain broker replication logs, cluster controller elections, and consumer group rebalancing models.
+    (OR)
+    (b) Write a comprehensive set of Apache HiveQL statements initializing multi-tiered partitioned and bucketed analytics warehouse structures processing telecom data logs.
+
+14. (a) Describe the underlying architectural processing superiority of Apache Spark over traditional disk-bound MapReduce paradigms. Explain lazy evaluation and DAG optimization steps.
+    (OR)
+    (b) Formulate a continuous stream processing architectural workflow combining Apache Kafka stream topics with Apache Spark Streaming data windows to flag transaction spikes.
+
+15. (a) Walk through the step-by-step mathematical computations of the K-Means clustering algorithm processing a multidimensional dataset. Explain distance metrics and convergence rules.
+    (OR)
+    (b) Evaluate the structural implementation steps required to compile, validate, and track a Linear Regression modeling pipeline using the Apache Spark MLlib data framework.
+
+PART C (1 x 15 = 15 Marks) - Case Study / Application Question
+16. (a) Act as a Lead Enterprise Data Architect. Design an infrastructure data pipeline processing 100,000 live transactional event streams per second to spot e-commerce checkout fraud. Map the data path from Kafka message ingest blocks to Spark Streaming analytics and final Cassandra storage layers.
+    (OR)
+    (b) Analyze an industrial dataset tracking customer churn. Apply big data predictive analytics modeling approaches to isolate risk profiles. Detail processing transformations and accuracy evaluation metrics like confusion matrices and ROC curves.

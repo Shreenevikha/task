@@ -1,0 +1,42 @@
+ANNA UNIVERSITY END SEMESTER EXAMINATION | B.E. COMPUTER SCIENCE & ENGINEERING
+FIFTH SEMESTER - REGULATION 2021
+CS3591 - COMPUTER NETWORKS
+Time: 3 Hours | Max. Marks: 100
+
+PART A (10 x 2 = 20 Marks) - Answer ALL Questions
+1. Distinguish between a port address, a logical address, and a physical address.
+2. If a file of 2,000,000 bits is sent over a 2 Mbps bandwidth link, calculate the transmission delay.
+3. Why does the Domain Name System (DNS) design prefer UDP over TCP for resolution queries?
+4. State the purpose of the Keep-Alive header in HTTP/1.1 connections.
+5. Explain the significance of the "Three-Way Handshake" mechanism in TCP connection establishment.
+6. What is the difference between Congestion Control and Flow Control in transport layers?
+7. Define Count-to-Infinity problem associated with the Distance Vector Routing protocol.
+8. A network uses the subnet mask 255.255.255.224. How many subnets and usable hosts per subnet can it support?
+9. Show the structural difference between pure ALOHA and slotted ALOHA throughput limits.
+10. What is the fundamental purpose of the Address Resolution Protocol (ARP)?
+
+PART B (5 x 13 = 65 Marks) - Answer ALL Questions (Internal Choice)
+11. (a) Explain the ISO/OSI reference model layer-by-layer. Detail the explicit data processing responsibilities, encapsulation steps, and protocols belonging to each layer.
+    (OR)
+    (b) Illustrate the step-by-step end-to-end execution path of a user typing "www.annauniv.edu" into a browser. Trace DNS recursive lookups, ARP resolution, TCP handshakes, and HTTP GET request pipelines.
+
+12. (a) Write a comprehensive analytical comparison mapping out architectural differences, packet headers, streaming overheads, and target use cases for TCP vs UDP.
+    (OR)
+    (b) Sketch a sequence diagram tracing how sliding window flow control operates in Go-Back-N (GBN) and Selective Repeat (SR) protocols during a random packet drop frame transmission scenario.
+
+13. (a) Apply Dijkstra’s Link State Routing algorithm to compute the definitive shortest path spanning tree from Source Node 'A' to all nodes in a 6-node weighted network mesh. Show data matrix steps.
+    (OR)
+    (b) Explain Classless Inter-Domain Routing (CIDR). An enterprise is allocated the block 192.168.16.0/20. Allocate optimal subnets using Variable Length Subnet Masking (VLSM) across four departments requiring 500, 250, 120, and 50 hosts respectively.
+
+14. (a) Derive the Cyclic Redundancy Check (CRC) checksum bits given a data payload bit pattern 1010011010 using the standard divisor polynomial generator G(x) = x^4 + x^2 + 1. Show the receiver validation steps.
+    (OR)
+    (b) Describe the internal MAC frame formats, coordination structures, and collision avoidance patterns (CSMA/CA) utilizing RTS/CTS handshakes deployed in IEEE 802.11 Wi-Fi networks.
+
+15. (a) Detail the foundational cryptography infrastructure, protocol operations, handshake phases, and session keys configuration that enables Secure Sockets Layer / Transport Layer Security (SSL/TLS).
+    (OR)
+    (b) Compare the operating mechanics of IPsec under Transport Mode vs Tunnel Mode. Draw the original IP packet structure transformations when encapsulated by Authentication Header (AH) and Encapsulating Security Payload (ESP).
+
+PART C (1 x 15 = 15 Marks) - Case Study / Application Question
+16. (a) Treat yourself as a Senior Network Architect. Design a resilient corporate campus network infrastructure for a 3-tier organization. Draw a architecture layout integrating DMZ zones protecting Web/Mail servers, enterprise firewalls handling packet inspection, core layer switches, and internal subnet isolation parameters to maximize fault defense.
+    (OR)
+    (b) Analyze the operational parameters of TCP Congestion Control. Plot an exhaustive timeline graph tracking a TCP connection traversing Slow Start, Congestion Avoidance, Fast Retransmit, and Fast Recovery states. Detail exactly how the Congestion Window size changes when an unexpected Timeout event vs a Triple Duplicate ACK notification occurs.

@@ -1,0 +1,12 @@
+CS3551 - EMBEDDED SYSTEMS AND IOT | INTERNAL ASSESSMENT TEST 2 (UNITS 3 & 4)
+PART A (2 Marks)
+1. What is analog-to-digital data conversion (ADC) sampling rate constraints?
+2. Explain how I2C communication interface bus routing topology operates.
+3. Define cloud data ingestion architectures for IoT streams.
+4. What is edge computing node stream offloading?
+PART B (13 Marks)
+5. (a) Develop a sensor hardware interfacing schematic mapping digital temperature sensors (DHT11) to a micro-controller over SPI buses.
+    (OR)
+   (b) Design an IoT cloud data architecture mapping pipeline steps using AWS IoT Core to ingest sensor data packets.
+PART C (15 Marks)
+6. Formulate a comprehensive industrial data ingestion pipeline managing 5000 physical sensor readings per second using distributed streaming architectures.

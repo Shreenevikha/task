@@ -1,0 +1,12 @@
+CCS334 - BIG DATA ANALYTICS | INTERNAL ASSESSMENT TEST 2 (UNITS 3 & 4)
+PART A (2 Marks)
+1. Detail the foundational design purpose behind Apache Kafka distributed systems.
+2. What is data stream windowing logic?
+3. How does Apache Spark manage resilient distributed datasets (RDD)?
+4. Compare MapReduce jobs execution profiles vs Apache Spark execution speed.
+PART B (13 Marks)
+5. (a) Explain Kafka internal log partition configurations, topic offsets replication distributions, and client consumer cluster group balancing logic.
+    (OR)
+   (b) Write out explicit HiveQL schema definition queries loading massive CSV blocks into partitioned target warehouse tables.
+PART C (15 Marks)
+6. Design an automated distributed stream analytics system processing live clickstream user events leveraging Spark Streaming transformations.

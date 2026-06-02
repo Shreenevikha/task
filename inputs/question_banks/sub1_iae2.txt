@@ -1,0 +1,12 @@
+CS3591 - COMPUTER NETWORKS | INTERNAL ASSESSMENT TEST 2 (UNITS 3 & 4)
+PART A (2 Marks)
+1. Given an IP address 192.168.1.0/26, determine the subnet mask and total usable hosts.
+2. What is count-to-infinity problem in Distance Vector Routing?
+3. Explain the function of the Address Resolution Protocol (ARP).
+4. How does the CSMA/CD protocol handle collision detection on an Ethernet link?
+PART B (13 Marks)
+5. (a) Apply Dijkstra’s Link State Routing algorithm to find the shortest path from node A to all other nodes for a 6-node network graph.
+    (OR)
+   (b) Describe the frame format of IEEE 802.11 (Wi-Fi) and explain the hidden terminal and exposed terminal problems along with the RTS/CTS mechanism.
+PART C (15 Marks)
+6. Design a Network Layer addressing plan. An organization is granted the block 190.100.0.0/16. It needs to establish 4 subnets with 4000, 2000, 1000, and 500 hosts respectively. Assign subnets using VLSM.

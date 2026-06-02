@@ -1,0 +1,12 @@
+CS3511 - CRYPTOGRAPHY AND CYBER SECURITY | INTERNAL ASSESSMENT TEST 2 (UNITS 3 & 4)
+PART A (2 Marks)
+1. What is a collision attack compromise vector attacking secure hash calculations?
+2. Define the basic application structural role of Digital Signature algorithms.
+3. Explain the mechanism signature properties utilized by antivirus engines identifying malware strains.
+4. Detail the operation of a distributed denial of service (DDoS) botnet packet attack.
+PART B (13 Marks)
+5. (a) Detail the math verification algorithms, block padding logic, and compounding compression sequences found inside the Secure Hash Algorithm (SHA-512).
+    (OR)
+   (b) Describe intrusion detection configuration parameters separating signature signature scanning rule sets from network anomaly observation models.
+PART C (15 Marks)
+6. Construct the complete mathematical execution steps encrypting and decrypting data utilizing the RSA cryptosystem algorithm. Let primes p=11, q=13, find public and private keys.

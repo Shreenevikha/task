@@ -1,0 +1,12 @@
+CS3551 - EMBEDDED SYSTEMS AND IOT | INTERNAL ASSESSMENT TEST 1 (UNITS 1 & 2)
+PART A (2 Marks)
+1. Highlight two architectural differences between Harvard and Von Neumann processing machines.
+2. Define the role of a Watchdog Timer in an embedded system microcontroller.
+3. Why is the MQTT protocol preferred over HTTP for constrained IoT devices?
+4. What is the function of the Publish/Subscribe architecture model?
+PART B (13 Marks)
+5. (a) Explain the internal hardware functional blocks of the ARM Cortex processor architecture with a schematic diagram.
+    (OR)
+   (b) Critically compare IoT application layer transport operational matrices: MQTT vs CoAP protocols.
+PART C (15 Marks)
+6. Design an operational smart weather tracking node architecture specification leveraging CoAP communication setups over UDP infrastructure networks.
